@@ -9,11 +9,11 @@ import java.util.List;
  * created by: sascha.bast
  * since: 10.09.17
  */
-public class ScanSuccessFullMessage extends ProcessMessage {
+public class ScanProgressMessage extends ProcessMessage {
 
     private final List<AbletonProject> result = new ArrayList<>();
 
-    public ScanSuccessFullMessage() {
+    public ScanProgressMessage(final Integer progress,final String message) {
         super(progress, message);
     }
 

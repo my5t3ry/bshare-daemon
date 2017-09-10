@@ -1,4 +1,4 @@
-package de.my5t3ry.bshare_daemon.wss.messages;
+package de.my5t3ry.bshare_daemon.wss.messages.rx;
 
 /**
  * created by: sascha.bast

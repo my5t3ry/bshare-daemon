@@ -1,8 +1,8 @@
 package de.my5t3ry.bshare_daemon.wss;
 
 import de.my5t3ry.als_parser.AbletonFileParser;
-import de.my5t3ry.bshare_daemon.wss.messages.ScanPathMessage;
-import de.my5t3ry.bshare_daemon.wss.messages.ScanSuccessFullMessage;
+import de.my5t3ry.bshare_daemon.wss.messages.rx.ScanPathMessage;
+import de.my5t3ry.bshare_daemon.wss.messages.tx.ScanSuccessFullMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;

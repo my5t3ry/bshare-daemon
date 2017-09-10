@@ -13,6 +13,10 @@ public class ScanSuccessFullMessage extends ProcessMessage {
 
     private final List<AbletonProject> result = new ArrayList<>();
 
+    public ScanSuccessFullMessage() {
+        super(progress, message);
+    }
+
     public List<AbletonProject> getResult() {
         return result;
     }

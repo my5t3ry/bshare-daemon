@@ -14,7 +14,6 @@ import java.io.File;
  * since: 09.09.17
  */
 @Controller
-
 public class MessageController {
     @MessageMapping("/scan-path")
     @SendTo("/socket")

@@ -11,7 +11,4 @@ import org.springframework.context.annotation.PropertySource;
 @Configuration
 @ComponentScan("de.my5t3ry")
 @PropertySource(value = "classpath:application.properties")
-public class AppConfiguration {
-
-   /* ... */
-}
+public class AppConfiguration {}

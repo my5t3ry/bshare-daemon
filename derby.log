@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon Sep 11 10:40:35 CEST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015e-7018-ee8c-00000e0a7238 
+Wed Sep 13 10:48:47 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015e-7a6d-288a-00000e76dd88 
 on database directory /Users/sascha.bast/.rebirth/rebirth.db with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
 Loaded from file:/Users/sascha.bast/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
 java.vendor=Oracle Corporation
